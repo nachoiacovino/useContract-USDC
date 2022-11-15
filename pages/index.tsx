@@ -9,7 +9,7 @@ const Home: NextPage = () => {
   
   return (
     <div className={styles.container}>
-      hi
+      hi Daniel
     </div>
   )
 };
